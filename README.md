@@ -2,7 +2,7 @@
 Trabalho de Desenvolvimento Mobile
 Nomes do componentes do grupo, RAs e disciplinas
 André Yamane 190129 - Desenvolvimento de Aplicações Mobile
-Calors Vinicius Arnobio Santos 160045 - PA
+Carlos Vinicius Arnobio Santos 160045 - PA
 
 Título do projeto: Character Sheet for DnD 5E
 
